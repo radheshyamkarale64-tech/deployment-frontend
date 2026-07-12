@@ -28,7 +28,7 @@ import AuthPage from './AuthPage'
 // ─────────────────────────────────────────────────────────────────────────────
 const API_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
   ? 'http://localhost:8000'
-  : 'https://backend-new-3m56.onrender.com'
+  : 'https://deployment-backend-vxva.onrender.com'
 
 function App() {
   // ─── Auth State ──────────────────────────────────────────────────────────
